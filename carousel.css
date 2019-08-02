@@ -36,9 +36,9 @@ body{
 }
 .poster-prev{
 	left:0;
-	background: url(../images/btn_l.png) no-repeat center center;
+	background: url(btn_l.png) no-repeat center center;
 }
 .poster-next{
 	right:0;
-	background: url(../images/btn_r.png) no-repeat center center;
+	background: url(btn_r.png) no-repeat center center;
 }
